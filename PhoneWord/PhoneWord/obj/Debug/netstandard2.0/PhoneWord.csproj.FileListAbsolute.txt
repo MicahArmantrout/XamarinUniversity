@@ -1,0 +1,14 @@
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\PhoneWord.deps.json
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\PhoneWord.dll
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\ref\PhoneWord.dll
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\bin\Debug\netstandard2.0\PhoneWord.pdb
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.csprojAssemblyReference.cache
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.csproj.CoreCompileInputs.cache
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.AssemblyInfoInputs.cache
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.AssemblyInfo.cs
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\XamlC.stamp
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.dll
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\ref\PhoneWord.dll
+C:\workspace\XamarinUniversity\PhoneWord\PhoneWord\obj\Debug\netstandard2.0\PhoneWord.pdb
